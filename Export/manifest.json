@@ -1,0 +1,7 @@
+{
+	"name": "NewBepin",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/prodzpod/NewBepin",
+	"description": "Updated BepInExPack and patchers that works with 1.0 release and mod.io mods.",
+	"dependencies": []
+}

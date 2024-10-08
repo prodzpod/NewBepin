@@ -1,0 +1,9 @@
+{
+	"name": "FixModIOMods",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/prodzpod/FixModIOMods",
+	"description": "",
+	"dependencies": [
+		"prodzpod-NewBepin-1.0.0"
+	]
+}
